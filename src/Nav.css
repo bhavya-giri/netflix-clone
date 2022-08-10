@@ -26,6 +26,7 @@
     object-fit: contain;
     padding-left:20px;
     cursor:pointer;
+    padding-top:7px;
 }
 .nav__avatar{
     position: fixed;
